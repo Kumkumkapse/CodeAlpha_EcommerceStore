@@ -38,6 +38,7 @@ CodeAlpha_EcommerceStore/
 ├── package-lock.json
 └── server.js
 
+```
 ## How to Run
 
 1. Clone the repository.
